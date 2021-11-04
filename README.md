@@ -27,7 +27,7 @@ Modelling
     Getting the distribution of the data
     Permutation test
     
-    
+       
 Evaluating and concluding
     What is our conclusion?
     What is our decision?
